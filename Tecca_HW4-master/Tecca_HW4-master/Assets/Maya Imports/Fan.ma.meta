@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 92fdbe076df82df42bec17b55c18642e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group2
+    100008: group3
+    100010: pasted__group
+    100012: pasted__group1
+    100014: pasted__group2
+    100016: pasted__pasted__pCube1
+    100018: pasted__pasted__pCube1 1
+    100020: pasted__pasted__pCube1 2
+    100022: pasted__pCube1
+    100024: pasted__pCube1 1
+    100026: pasted__pCube1 2
+    100028: pasted__pCube1 3
+    100030: pCube1
+    100032: pCylinder1
+    100034: pCylinder2
+    100036: polySurface1
+    100038: pPipe1
+    100040: transform1
+    100042: transform10
+    100044: transform11
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    100054: transform6
+    100056: transform7
+    100058: transform8
+    100060: transform9
+    100062: pasted__polySurface1
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group2
+    400008: group3
+    400010: pasted__group
+    400012: pasted__group1
+    400014: pasted__group2
+    400016: pasted__pasted__pCube1
+    400018: pasted__pasted__pCube1 1
+    400020: pasted__pasted__pCube1 2
+    400022: pasted__pCube1
+    400024: pasted__pCube1 1
+    400026: pasted__pCube1 2
+    400028: pasted__pCube1 3
+    400030: pCube1
+    400032: pCylinder1
+    400034: pCylinder2
+    400036: polySurface1
+    400038: pPipe1
+    400040: transform1
+    400042: transform10
+    400044: transform11
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    400054: transform6
+    400056: transform7
+    400058: transform8
+    400060: transform9
+    400062: pasted__polySurface1
+    2300000: polySurface1
+    2300002: transform1
+    2300004: transform10
+    2300006: transform11
+    2300008: transform2
+    2300010: transform3
+    2300012: transform4
+    2300014: transform5
+    2300016: transform6
+    2300018: transform7
+    2300020: transform8
+    2300022: transform9
+    2300024: pasted__polySurface1
+    3300000: polySurface1
+    3300002: transform1
+    3300004: transform10
+    3300006: transform11
+    3300008: transform2
+    3300010: transform3
+    3300012: transform4
+    3300014: transform5
+    3300016: transform6
+    3300018: transform7
+    3300020: transform8
+    3300022: transform9
+    3300024: pasted__polySurface1
+    4300000: transform1
+    4300002: transform2
+    4300004: polySurface1
+    4300006: transform3
+    4300008: transform5
+    4300010: transform6
+    4300012: transform7
+    4300014: transform4
+    4300016: transform11
+    4300018: transform10
+    4300020: transform9
+    4300022: transform8
+    4300024: pasted__polySurface1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
